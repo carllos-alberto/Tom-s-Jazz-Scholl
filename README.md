@@ -6,7 +6,7 @@
 ## Sobre o projeto
 Projeto Landing Page de uma escola de Jazz!
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Spider-Man-Across-the-Spider-Verse/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Tom-s-Jazz-School/blob/master/LICENSE) 
 
 ## Tecnologias utilizadas
 ### Front end
