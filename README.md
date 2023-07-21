@@ -10,8 +10,8 @@ Projeto Landing Page de uma escola de Jazz!
 
 ## Tecnologias utilizadas
 ### Front end
-- HTML5  
-- CSS3
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## Deploy
 [![Deploy to Vercel](https://vercel.com/button)](https://tom-s-jazz-scholl.vercel.app/)
