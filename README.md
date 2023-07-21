@@ -1,4 +1,4 @@
-# Tom-s-Jazz-Scholl
+# Tom-s-Jazz-School
 
 ## 📌 Screenshots
 ![Tom's Jazz School](https://github.com/carllos-alberto/Tom-s-Jazz-Scholl/assets/81397233/2379c96c-3dfe-4b79-89ed-b0272489d42e)
