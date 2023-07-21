@@ -14,7 +14,7 @@ Projeto Landing Page de uma escola de Jazz!
 - CSS3
 
 ## Deploy
-[![Deploy to Vercel](https://vercel.com/button)](https://spider-man-across-the-spider-verse.vercel.app/)
+[![Deploy to Vercel](https://vercel.com/button)](https://tom-s-jazz-scholl.vercel.app/)
 
 <img align="center" alt="js" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" />
 
